@@ -16,13 +16,6 @@ public class BootstrapCmd implements CommandLineRunner {
 		super();
 		this.movieRepository = movieRepository;
 	}
-
-
-
-
-
-
-	
 	  
 
 
